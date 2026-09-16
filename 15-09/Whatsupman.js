@@ -5,7 +5,7 @@ let Idade = 18;
 
 console.log( "Minha mãe sempre fala quando em casa na sexta: " + Mãezinha);
 
-console.log("Minha mãe pede pra mim confirmar meu telefone. Ela diz: Seu telefone é " + Telefone);
+console.log("Minha mãe pede pra eu confirmar meu telefone. Ela diz: Seu telefone é " + Telefone);
 
 console.log("Minha idade em 2028 será de: " + Idade);
 
