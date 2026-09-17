@@ -65,42 +65,42 @@
 // Se não
     // Faça aquilo
 
-// let habilitado = true;
+let habilitado = true;
 
-// if (habilitado == true) { 
-//     console.log("Pode dirigir!");
+if (habilitado == true) { 
+    console.log("Pode dirigir!");
 
-// } else {
-//     console.log("NÃO pode dirigir!");
-// }
+} else {
+    console.log("NÃO pode dirigir!");
+}
 
-// let Idade = 16;
+let Idade = 16;
 
-// if (Idade >= 18) {
-//     console.log("Maior de idade, acesso liberado!");
-// } else {
-//     console.log("Menor de idade, acesso negado!");
-// }
+if (Idade >= 18) {
+    console.log("Maior de idade, acesso liberado!");
+} else {
+    console.log("Menor de idade, acesso negado!");
+}
 
 // Crie um sistema que compare o valor de uma variavel senha SE for igual a 1234 escreva no console "Acesso Liberado" SE NÂO escreva "Acesso Negado"
 
-// let Senha = 2230;
+let Senha = 2230;
 
-// if (Senha == 1234) {
-//     console.log("Acesso Liberado!");
-// } else {
-//     console.log("Acesso Negado!");
-// }
+if (Senha == 1234) {
+    console.log("Acesso Liberado!");
+} else {
+    console.log("Acesso Negado!");
+}
 
 // Crie um sistema que avalie uma variavel nota. SE nota for maior que 6, escreva "Aprovado", SE NÂO, escreva reprovado
 
-// let Nota = 4.5;
+let Nota = 4.5;
 
-// if (Nota >= 6) {
-//     console.log("Aprovado!");
-// } else {
-//     console.log("Reprovado!");
-// }
+if (Nota >= 6) {
+    console.log("Aprovado!");
+} else {
+    console.log("Reprovado!");
+}
 
 // Crie um sistema que compare o valor de uma compra, SE a compra for maior que 500, calcule um desconto de 20 e mostre o valor total da compra com desconto SE NÂO mostre a mensagem COMPRA SEM DESCONTO
 
